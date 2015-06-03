@@ -1,0 +1,5 @@
+vendors/bower_components
+vendors/node_modules
+www/application
+www/libraries
+www/templates
