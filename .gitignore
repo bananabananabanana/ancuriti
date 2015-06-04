@@ -1,7 +1,4 @@
 .idea
-sources/styles/**/*.css
-vendors/bower_components
-vendors/node_modules
-www/application
-www/libraries
-www/templates
+target
+classes
+*.iml
