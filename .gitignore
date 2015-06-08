@@ -1,7 +1,7 @@
 .idea
+sources/styles/**/*.css
 vendors/bower_components
 vendors/node_modules
-sources/styles/**/*.css
 www/application
 www/images
 www/libraries
